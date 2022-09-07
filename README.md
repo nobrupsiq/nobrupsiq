@@ -33,7 +33,7 @@
 
 ## 📊 &nbsp;Estatísticas
 <div align="center">
-  <a href="https://github.com/allbertuu">
+  <a href="https://github.com/nobrupsiq">
    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nobrupsiq&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobrupsiq&layout=compact&langs_count=7&theme=nord"/></a>
 </div>
