@@ -9,7 +9,7 @@
 - 🏀 NBA Fã
 
 ## 👥 &nbsp;Social
-<a href="https://www.linkedin.com/in/brunpsiq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="mailto:siqueiracode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/brunpsiq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="mailto:siqueiracode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## 💻 &nbsp;Skills
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git)](https://skills.thijs.gg)
