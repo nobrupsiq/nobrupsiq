@@ -1,3 +1,5 @@
+[![banner](./banner.jpg)](https://github.com/nobrupsiq)
+
 <h3>Olá, me chamo Bruno, futuro desenvolvedor fullstack
 <img src='https://github.githubassets.com/images/mona-loading-default.gif' width='30px' style='vertical-align:middle'></h3>
 
@@ -9,7 +11,7 @@
 - 🏀 NBA Fã
 
 ## 👥 &nbsp;Social
-<a href="https://www.linkedin.com/in/brunpsiq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="mailto:siqueiracode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/brunsiq/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/brunpsiq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="mailto:siqueiracode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/brunsiq/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 
 ## 🚀 &nbsp;Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,15 +26,18 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 **Sistema Operacional:**
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 
 ## 📊 &nbsp;Estatísticas
-<img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=nobrupsiq&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="nobrupsiq" 
-    bg_color=#808080/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nobrupsiq&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="nobrupsiq" />
+<div align="center">
+  <a href="https://github.com/allbertuu">
+   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nobrupsiq&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobrupsiq&layout=compact&langs_count=7&theme=nord"/></a>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nobrupsiq&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="nobrupsiq" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nobrupsiq&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="nobrupsiq" />
+</div>
+
+
