@@ -6,7 +6,6 @@
 ## 💻 &nbsp;Sobre
 - 🏠 Residente em RJ
 - 💪 Foco em linguagem web, principalmente javascript
-- 🚀 Entusiasta de programação desde os 20 anos
 - 📫 E-mail: siqueiracode@gmail.com
 - 🏀 NBA Fã
 
