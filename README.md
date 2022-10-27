@@ -1,14 +1,5 @@
-[![banner](./banner.jpg)](https://github.com/nobrupsiq)
 
 <h3>Olá, me chamo Bruno, futuro desenvolvedor fullstack
-<img src='https://github.githubassets.com/images/mona-loading-default.gif' width='30px' style='vertical-align:middle'></h3>
-
-## 💻 &nbsp;Sobre
-
--   🏠 Residente em RJ
--   💪 Foco em linguagem web, principalmente javascript
--   📫 E-mail: siqueiracode@gmail.com
--   🏀 NBA Fã
 
 ## 👥 &nbsp;Social
 
