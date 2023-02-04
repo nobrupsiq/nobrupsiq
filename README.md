@@ -13,11 +13,13 @@
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
-<h2>Socials:</h2>
+<p><strong>SOCIALS</strong>:</p>
 
 <a href="https://www.linkedin.com/in/brunpsiq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="mailto:siqueiracode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<h2>Estatísticas:</h2>
+</br>
+
+<p><strong>ESTATÍSTICAS</strong>:</p>
 
 <div align="center">
   <a href="https://github.com/nobrupsiq">
