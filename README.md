@@ -4,7 +4,7 @@
 
 </br>
 
-<p style='font-weight: bold'>SKILLS:</p>
+<p><strong>SKILLS</strong>:</p>
 
 <div align="left">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
