@@ -20,12 +20,4 @@
 
 <a href="https://www.linkedin.com/in/brunpsiq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="mailto:siqueiracode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-</br>
 
-<p><strong>ESTATÍSTICAS</strong>:</p>
-
-<div align="center">
-  <a href="https://github.com/nobrupsiq">
-   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nobrupsiq&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobrupsiq&layout=compact&langs_count=7&theme=nord"/></a>
-</div>
