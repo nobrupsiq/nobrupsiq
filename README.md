@@ -6,6 +6,6 @@
 
 <p><strong>SKILLS</strong>:</p>
 
-<p<strong>...</strong></p>
+<h1><strong>...</strong></h1>
 
 <br>
