@@ -4,8 +4,8 @@
   <img src="saquasoftware.png" width="120px" min-width="120px" max-width="120px" align="right">
 </div>
 
-## Hello! Welcome to my Github profile.
-### My name is Bruno and my nickname is "siQPires"!
+<p> Olá! Bem-vindo ao meu perfil no Github.</p>
+<p>Meu nome é Bruno e meu apelido é “siQPires”!</p>
 
 </br>
 
