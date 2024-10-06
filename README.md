@@ -1,7 +1,7 @@
 <img src="siqpires_icon.svg" width="280px" min-width="280px" max-width="280px" align="right" alt="Logo Bruno"/>
 
 <div/>
-<h3 font-size="40px">Olá! Bem-vindo ao meu perfil no Github.</h3>
+<h3 style="font-size:40px">Olá! Bem-vindo ao meu perfil no Github.</h3>
 <p style="font-size:20px;"><strong>Me chamo Bruno!</br>Sou estudante de Engenharia de Software na Universidade de Vassouras.</strong></p>
 
 <!-- <img src="saquasoftware.png" width="120px" min-width="120px" max-width="120px" align="right" alt="Logo Engenharia de software Universidade de Vassouras"/> -->
