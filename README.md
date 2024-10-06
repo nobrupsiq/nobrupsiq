@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: right;">
-  <img src="siqpires.png" style="display:block;" width="300px" min-width="300px" max-width="300px" style="display:block;" alt="Logo Bruno">
+  <img src="siqpires.png" style="display:block;" width="220px" min-width="220px" max-width="220px" style="display:block;" alt="Logo Bruno">
 
-  <img src="saquasoftware.png" width="120px" min-width="120px" max-width="120px">
+  <img src="saquasoftware.png" width="98px" min-width="98px" max-width="98px">
 </div>
 
 <h3>Olá! Bem-vindo ao meu perfil no Github.</h3>
