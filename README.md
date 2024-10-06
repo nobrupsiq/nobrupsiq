@@ -1,4 +1,4 @@
-<img src="siqpires.png" " width="220px" min-width="220px" max-width="220px" align="right" alt="Logo Bruno"/>
+<img src="siqpires.png" width="220px" min-width="220px" max-width="220px" align="right" alt="Logo Bruno"/>
 
 <img src="saquasoftware.png" width="98px" min-width="98px" max-width="98px" align="right" alt="Logo Engenharia de software Universidade de Vassouras"/>
 
