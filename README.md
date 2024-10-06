@@ -11,6 +11,6 @@
 <h3><strong>SKILLS</strong>:</h3>
 </br>
 
-![image](https://img.shields.io/badge/Python-6639da?style=for-the-badge&logo=python&logoColor=black)
+![image](https://img.shields.io/badge/Python-6639da?style=for-the-badge&logo=python&logoColor=white)
 
 <br>
