@@ -8,8 +8,9 @@
 
 </br>
 
-<p><strong>SKILLS</strong>:</p>
+<h3><strong>SKILLS</strong>:</h3>
+</br>
 
-<h1><strong>...</strong></h1>
+![image](https://img.shields.io/badge/Python-6639da?style=for-the-badge&logo=python&logoColor=blue)
 
 <br>
