@@ -13,6 +13,7 @@
 ![image](https://img.shields.io/badge/JavaScript-6639da?style=for-the-badge&logo=javascript&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-6639da?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/React-6639da?style=for-the-badge&logo=react&logoColor=white)
-![image](https://img.shields.io/badge/Algorithms-6639da.svg?style=for-the-badge&logo=The-Algorithms&logoColor=white)
+![image](https://img.shields.io/badge/Algorithms-6639da.svg?style=for-the-badge&logo=The-Algorithms&logoColor=white)</br>
+![image](https://img.shields.io/badge/PHP-6639da.svg?style=for-the-badge&logo=PHP&logoColor=white)
 
 <br>
