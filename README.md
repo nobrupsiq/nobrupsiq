@@ -2,7 +2,7 @@
 
 <div/>
 <h3 style="font-size:40px">Olá! Bem-vindo ao meu perfil no Github.</h3>
-<p style="font-size:20px;"><strong>Me chamo Bruno!</br>Sou estudante de Engenharia de Software na Universidade de Vassouras.</strong></p>
+<p style="font-size:20px;"><strong>Me chamo Bruno!</br>Sou Formado em Análise e desenvolvimento de sistemas pela Universidade Estácio e atualmente sou estudante de Engenharia de Software na Universidade de Vassouras.</strong></p>
 
 </br>
 
