@@ -15,5 +15,6 @@
 ![image](https://img.shields.io/badge/React-6639da?style=for-the-badge&logo=react&logoColor=white)
 ![image](https://img.shields.io/badge/Algorithms-6639da.svg?style=for-the-badge&logo=The-Algorithms&logoColor=white)</br>
 ![image](https://img.shields.io/badge/PHP-6639da.svg?style=for-the-badge&logo=PHP&logoColor=white)
+![image](https://img.shields.io/badge/Figma-6639da.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
 <br>
