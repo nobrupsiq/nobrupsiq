@@ -1,4 +1,4 @@
-<img src="siqpires_icon.svg" width="280px" min-width="280px" max-width="280px" align="right" alt="Logo Bruno"/>
+<img src="logo_eng.png" width="280px" min-width="280px" max-width="280px" align="right" alt="Logo Bruno"/>
 
 <div/>
 <h3 style="font-size:40px">Olá! Bem-vindo ao meu perfil no Github.</h3>
