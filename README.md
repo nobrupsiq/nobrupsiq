@@ -2,7 +2,7 @@
 
 <div/>
 <h3 style="font-size:40px">Olá! Bem-vindo ao meu perfil no Github.</h3>
-<p style="font-size:20px;"><strong>Me chamo Bruno!</br>Desenvolvedor Full-Stack e estudante de Engenharia de Software na Universidade de Vassouras.</strong></p>
+<p style="font-size:20px;"><strong>Me chamo Bruno!</br>Estudante de Engenharia de Software na Universidade na universidade Vassouras.</strong></p>
 
 </br>
 
